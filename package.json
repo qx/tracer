@@ -10,8 +10,10 @@
   "author": "LI Long <lilong@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "dateformat": "2.0.0",
+    "application-name": "file:example/express",
     "colors": "1.1.2",
+    "dateformat": "2.0.0",
+    "express": "^4.15.3",
     "tinytim": "0.1.1"
   },
   "devDependencies": {
